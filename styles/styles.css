@@ -1,0 +1,32 @@
+body{
+    background-color: #88d4b5;
+}
+
+
+  footer {
+  width: 102.5%;
+  background: #202020;
+  color: white;
+  font-size: 12px;
+  padding: 20px 0;
+  text-align: center;
+  font-size: 1rem;
+  padding-bottom: 20px;
+}
+
+#camp{
+font-family: 'Carter One', Arial, Helvetica, sans-serif;
+text-align: center;
+    color:#fa7202; 
+  font-size: 70pt;
+}
+.info {
+    color: white;
+
+  font: oblique 120% arial;
+    
+}
+.camp{
+     color: white;
+  font-family:"Segoe UI";
+}
